@@ -3,6 +3,6 @@ export class Service{
         console.log("Service something");
     }
     dosomething() {
-        console.log("Service something");
+        console.log("Service something from main");
     }
 }
