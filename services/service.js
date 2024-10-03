@@ -4,5 +4,6 @@ export class Service{
     }
     dosomething() {
         console.log("Service something");
+        console.log("About service things");
     }
 }
