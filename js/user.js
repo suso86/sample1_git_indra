@@ -6,4 +6,8 @@ export class User{
     login(user){
         return user;
     }
+
+    register(user){
+        return user;
+    }
 }
